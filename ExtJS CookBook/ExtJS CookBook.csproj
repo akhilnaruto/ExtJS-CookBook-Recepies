@@ -67,6 +67,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Chapter3\Layouts\Accordian.js" />
+    <Content Include="Chapter3\Layouts\Card.js" />
     <Content Include="Chapter3\Layouts\index.html" />
     <Content Include="ExtJS\ext-theme-classic\ext-theme-classic-all-debug.css" />
     <Content Include="ExtJS\ext-theme-classic\ext-theme-classic-all-rtl-debug.css" />
