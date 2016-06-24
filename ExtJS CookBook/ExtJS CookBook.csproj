@@ -66,6 +66,8 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Chapter3\Layouts\Accordian.js" />
+    <Content Include="Chapter3\Layouts\index.html" />
     <Content Include="ExtJS\ext-theme-classic\ext-theme-classic-all-debug.css" />
     <Content Include="ExtJS\ext-theme-classic\ext-theme-classic-all-rtl-debug.css" />
     <Content Include="ExtJS\ext-theme-classic\ext-theme-classic-all-rtl.css" />
@@ -546,9 +548,7 @@
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Chapter3\" />
-  </ItemGroup>
+  <ItemGroup />
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
