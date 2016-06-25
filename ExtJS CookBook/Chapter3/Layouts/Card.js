@@ -44,12 +44,35 @@ var card3 = new Ext.panel.Panel({
 
 
 Ext.onReady(function () {
-    Ext.create('Ext.panel.Panel', {
+ var panel =Ext.create('Ext.panel.Panel', {
         title: 'Account Creation Wizard - Card Layout',
         height: 350,
         width: 300,
         layout:'card',
-        items:[card1,card2,card3],
+        items: [card1, card2, card3],
+        bbar: ['->',
+            {
+                xtype: 'button',
+                text: ' previous',
+                handler: function (btn) {
+                    var layout = panel.getLayout();
+                    if (layout.getPrev()) {
+                        layout.prev();
+                    }
+                }
+            },
+            {
+                xtype: 'button',
+                text: 'next',
+                handler: function (btn) {
+                    var layout = panel.getLayout();
+                    if (layout.getNext()) {
+                        layout.next();
+                    }
+                }
+            }
+
+        ],
         renderTo:Ext.getBody()
     });
 });
