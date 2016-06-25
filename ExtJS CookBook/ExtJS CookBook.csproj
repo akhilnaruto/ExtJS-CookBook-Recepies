@@ -69,6 +69,7 @@
     <Content Include="Chapter3\Layouts\Accordian.js" />
     <Content Include="Chapter3\Layouts\Anchor\Anchor_Offset.js" />
     <Content Include="Chapter3\Layouts\Anchor\Anchor_percentages.js" />
+    <Content Include="Chapter3\Layouts\border.js" />
     <Content Include="Chapter3\Layouts\Card.js" />
     <Content Include="Chapter3\Layouts\index.html" />
     <Content Include="ExtJS\ext-theme-classic\ext-theme-classic-all-debug.css" />
