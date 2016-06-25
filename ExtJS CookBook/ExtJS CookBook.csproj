@@ -72,6 +72,7 @@
     <Content Include="Chapter3_Layouts\Layouts\border.js" />
     <Content Include="Chapter3_Layouts\Layouts\Card.js" />
     <Content Include="Chapter3_Layouts\Layouts\index.html" />
+    <Content Include="Chapter3_Layouts\Layouts\MultipleLayouts.js" />
     <Content Include="ExtJS\ext-theme-classic\ext-theme-classic-all-debug.css" />
     <Content Include="ExtJS\ext-theme-classic\ext-theme-classic-all-rtl-debug.css" />
     <Content Include="ExtJS\ext-theme-classic\ext-theme-classic-all-rtl.css" />
