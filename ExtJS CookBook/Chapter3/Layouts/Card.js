@@ -48,7 +48,11 @@ Ext.onReady(function () {
         title: 'Account Creation Wizard - Card Layout',
         height: 350,
         width: 300,
-        layout:'card',
+        layout: {
+            type: 'card',
+            deferredRender:true
+
+        },
         items: [card1, card2, card3],
         bbar: ['->',
             {
