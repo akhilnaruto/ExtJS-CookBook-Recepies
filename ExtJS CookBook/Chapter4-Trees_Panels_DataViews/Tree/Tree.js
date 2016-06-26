@@ -38,4 +38,12 @@ Ext.onReady(function () {
         style:'margin 50px'
     });
 
+    Ext.create('Ext.Button', {
+        text: 'Sort',
+        renderTo: Ext.getBody(),
+        handler: function () {
+            store.sort('text');
+        }
+    });
+
 });
