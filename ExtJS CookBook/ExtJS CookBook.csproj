@@ -76,6 +76,7 @@
     <Content Include="Chapter4-Trees_Panels_DataViews\index.html" />
     <Content Include="Chapter4-Trees_Panels_DataViews\Tree\Tree.js" />
     <Content Include="Chapter4-Trees_Panels_DataViews\Tree\Tree_DragDrop.js" />
+    <Content Include="Chapter4-Trees_Panels_DataViews\Tree\Tree_Events.js" />
     <Content Include="ExtJS\ext-theme-classic\ext-theme-classic-all-debug.css" />
     <Content Include="ExtJS\ext-theme-classic\ext-theme-classic-all-rtl-debug.css" />
     <Content Include="ExtJS\ext-theme-classic\ext-theme-classic-all-rtl.css" />
