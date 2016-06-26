@@ -73,6 +73,8 @@
     <Content Include="Chapter3_Layouts\Layouts\Card.js" />
     <Content Include="Chapter3_Layouts\Layouts\index.html" />
     <Content Include="Chapter3_Layouts\Layouts\MultipleLayouts.js" />
+    <Content Include="Chapter4-Trees_Panels_DataViews\index.html" />
+    <Content Include="Chapter4-Trees_Panels_DataViews\Tree\Tree.js" />
     <Content Include="ExtJS\ext-theme-classic\ext-theme-classic-all-debug.css" />
     <Content Include="ExtJS\ext-theme-classic\ext-theme-classic-all-rtl-debug.css" />
     <Content Include="ExtJS\ext-theme-classic\ext-theme-classic-all-rtl.css" />
@@ -537,6 +539,7 @@
     <Content Include="ExtJS\ext-theme-classic\images\window\window-default-sides.gif" />
     <Content Include="packages.config" />
     <Content Include="ExtJS\ext-theme-classic\Readme.md" />
+    <Content Include="Chapter4-Trees_Panels_DataViews\treeData.json" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

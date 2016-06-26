@@ -1,0 +1,40 @@
+[
+  {
+    "text": "United Kindom",
+    "leaf": false, // when true children will not be displayed
+    "children": [
+      {
+        "text": "Glasgow",
+        "leaf": true
+      },
+      {
+        "text": "Edinburgh",
+        "leaf": true
+      },
+      {
+        "text": "London",
+        "leaf": true
+      }
+    ]
+  },
+    {
+        "text": "United States of America",
+        "leaf": true
+    },
+    {
+        "text": "France",
+        "leaf": true
+    },
+    {
+        "text": "Germany",
+        "leaf": true
+    },
+    {
+        "text": "Spain",
+        "leaf": true
+    },
+    {
+        "text": "Italy",
+        "leaf": true
+    }
+]
