@@ -40,7 +40,6 @@ var westPanel = Ext.create('Ext.tree.Panel', {
             var tabBar = tabPanel.getTabBar();
             var tabIndex;
 
-
         }
     }
 });
