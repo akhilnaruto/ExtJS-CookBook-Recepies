@@ -76,6 +76,7 @@
     <Content Include="Chapter4-Trees_Panels_DataViews\Panels_DockedItems\DockingItemsToPanel.js" />
     <Content Include="Chapter4-Trees_Panels_DataViews\index.html" />
     <Content Include="Chapter4-Trees_Panels_DataViews\Panels_DockedItems\index.html" />
+    <Content Include="Chapter4-Trees_Panels_DataViews\Panels_DockedItems\PanelWIthAllDockedItems.js" />
     <Content Include="Chapter4-Trees_Panels_DataViews\Panels_DockedItems\Panel_FooterBar.js" />
     <Content Include="Chapter4-Trees_Panels_DataViews\Tree\Tree.js" />
     <Content Include="Chapter4-Trees_Panels_DataViews\Tree\Tree_DragDrop.js" />
