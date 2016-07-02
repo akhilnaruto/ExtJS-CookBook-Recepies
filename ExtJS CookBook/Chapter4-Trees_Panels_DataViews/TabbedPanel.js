@@ -19,6 +19,15 @@ Ext.onReady(function () {
                 tabConfig: {
                     tooltip:'Tab two Tool tip Text'
                 }
+            },
+            {
+                title: 'item3',
+                tabConfig: {
+                    tooltip: {
+                        title: 'Tooltip Header',
+                        text:'Tab three tooltip text'
+                    }
+                }
             }
         ],
         renderTo: Ext.getBody(),
