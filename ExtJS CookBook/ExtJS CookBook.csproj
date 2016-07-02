@@ -73,6 +73,7 @@
     <Content Include="Chapter3_Layouts\Layouts\Card.js" />
     <Content Include="Chapter3_Layouts\Layouts\index.html" />
     <Content Include="Chapter3_Layouts\Layouts\MultipleLayouts.js" />
+    <Content Include="Chapter4-Trees_Panels_DataViews\LoginForm_Window.js" />
     <Content Include="Chapter4-Trees_Panels_DataViews\Panels_DockedItems\DockingItemsToPanel.js" />
     <Content Include="Chapter4-Trees_Panels_DataViews\index.html" />
     <Content Include="Chapter4-Trees_Panels_DataViews\Panels_DockedItems\index.html" />
