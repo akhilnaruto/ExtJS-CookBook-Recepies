@@ -20,7 +20,7 @@ var form = Ext.create('Ext.form.Panel', {
     buttons: [
         {
             text: 'Login',
-            formBind: true,
+            formBind: true, //this ensures button is enabled only if form is valid
             disabled: true,
             handler: function () {
                 alert('Login Button Clicked')
