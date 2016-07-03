@@ -8,6 +8,14 @@ Ext.onReady(function () {
         style: 'margin 50px',
         renderTo: Ext.getBody(),
         tabPosition: 'bottom',
+        bbar:[{
+            text: 'Toggle tab two',
+            handler: function () {
+                var tab = tabPanel.items.get(1).tab;
+                tab.setVisible(!tab.isVisible());
+            }
+        }],
+
         items: [
             {
                 title: 'tab one',
