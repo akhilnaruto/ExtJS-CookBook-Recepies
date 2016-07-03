@@ -80,7 +80,7 @@
     <Content Include="Chapter4-Trees_Panels_DataViews\Panels_DockedItems\PanelWIthAllDockedItems.js" />
     <Content Include="Chapter4-Trees_Panels_DataViews\Panels_DockedItems\Panel_DynamicDocking.js" />
     <Content Include="Chapter4-Trees_Panels_DataViews\Panels_DockedItems\Panel_FooterBar.js" />
-    <Content Include="Chapter4-Trees_Panels_DataViews\TabbedPanel.js" />
+    <Content Include="Chapter4-Trees_Panels_DataViews\TabPanels\TabbedPanel.js" />
     <Content Include="Chapter4-Trees_Panels_DataViews\Tree\Tree.js" />
     <Content Include="Chapter4-Trees_Panels_DataViews\Tree\Tree_DragDrop.js" />
     <Content Include="Chapter4-Trees_Panels_DataViews\Tree\Tree_Events.js" />
